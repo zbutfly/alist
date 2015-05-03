@@ -2,7 +2,7 @@
 set -x
 
 # refresh gfw-list, to be migrate to github.
-#svn cat https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt > proxy-gfw.txt
+svn cat https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt > proxy-gfw.txt
 base64 --decode -i proxy-gfw.txt -o proxy-gfw-plain.txt
 
 # encode bf-list.
