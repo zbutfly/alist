@@ -1,0 +1,55 @@
+[AutoProxy 0.2.9]
+!! Checksum: 
+! Expires: 1d
+! Version: 20150128
+! Title: ButflyGFWList
+! Butfly's Block List for Adblock (Beta)
+! Last modified: 28 Jan 2015 00:10 UTC
+! Homepage: https://code.google.com/p/alfames/source/browse/trunk/butfly-gfw.txt
+
+!---- adult
+||51luoben.com^
+||eyny.com^
+||spring4u.info^
+||6park.com^
+
+!----- anti-gfw toolkit
+||i2p.rocks^
+!----- social 
+||facebook.com^
+||twitter.com^
+||wordpress.com^
+||blogger.com^
+||blogspot.jp^
+||blogspot.com^
+||blogblog.com^
+||cnd.org^
+||wikipedia.org^
+||wp.com^
+||feedly.com^
+||akamaihd.net^
+
+!----- cloud/cdn
+||dropbox.com^
+||googleapis.com^
+||googleusercontent.com^
+||ggpht.com^
+||gstatic.com^
+||fbcdn.net^
+||twimg.com^
+||gravatar.com^
+||truste.com^
+||skimresources.com^
+||dmcdn.net^
+
+!----- tech/devel
+||google.com^
+||googlecode.com^
+||adblockplus.org^
+||godaddy.com^
+||mozilla.org^
+||mozilla.net^
+||mozilla.com^
+||hayageek.com^
+||howtogeek.com^
+||cloudfront.net^
