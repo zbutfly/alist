@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !! Checksum: 
 ! Version: 20150503
-! Title: ButflyADBList
+! Title: [adblock]ButflyADBList
 ! Butfly's Block List for Adblock (Beta)
 ! Last modified: 03 May 2015 00:10 UTC
 ! Expires: 15 days (update not frequency)

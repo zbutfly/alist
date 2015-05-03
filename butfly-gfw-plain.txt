@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
 !! Checksum: 
 ! Version: 20150503
-! Title: ButflyGFWList
+! Title: [proxy]ButflyGFWList
 ! Butfly's Proxy List for Autoproxy
 ! Last modified: 03 May 2015 00:10 UTC
 ! Expires: 7d
