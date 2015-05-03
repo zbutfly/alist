@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 !! Checksum: 
-! Version: 20140708
-! Title: ButflyList
+! Version: 20150503
+! Title: ButflyADBList
 ! Butfly's Block List for Adblock (Beta)
-! Last modified: 08 Jul 2014 06:10 UTC
+! Last modified: 03 May 2015 00:10 UTC
 ! Expires: 15 days (update not frequency)
-! Homepage: https://code.google.com/p/alfames/source/browse/trunk/butfly-adblock.txt
+! Homepage: https://github.com/zbutfly/bf-list
 
 ! Please report any unblocked adverts or problems
 ! via e-mail (zbutfly@gmail.com).

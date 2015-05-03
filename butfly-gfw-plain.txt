@@ -1,11 +1,11 @@
 [AutoProxy 0.2.9]
 !! Checksum: 
-! Expires: 1d
-! Version: 20150128
+! Version: 20150503
 ! Title: ButflyGFWList
-! Butfly's Block List for Adblock (Beta)
-! Last modified: 28 Jan 2015 00:10 UTC
-! Homepage: https://code.google.com/p/alfames/source/browse/trunk/butfly-gfw.txt
+! Butfly's Proxy List for Autoproxy
+! Last modified: 03 May 2015 00:10 UTC
+! Expires: 7d
+! Homepage: https://github.com/zbutfly/bf-list
 
 !---- adult
 ||51luoben.com^
