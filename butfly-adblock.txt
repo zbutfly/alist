@@ -21,6 +21,8 @@
 ^t.js^
 ^tan.js^
 ^tan1.js^
+*/Ads/*
+||hao123.com^
 ! --------- elements hidden list ----- !
 weibo.com##DIV#*_biztips
 09wxw.com###AdsT
@@ -68,13 +70,13 @@ dindinshop.com##[id^="ads_r"]
 dodbook.com##TABLE[width="750"]
 duxiaoshuo.com##DIV[style="clear:both;width:960px; height:90px; margin:5px  auto;overflow:hidden"]
 duzheju.com##[id^="ptcmsad"]
-eyny.com###col
-eyny.com###forum_rules_343
+eyny.com##.t_p_top
 eyny.com###ft
-eyny.com##.hdc.cl
-eyny.com##TABLE[height="240"][style="margin-bottom:10px"]
-eyny.com##TABLE[style="margin-top:5px"]
-eyny.com##TD.p_pre_td
+eyny.com###wp>table:nth-child(4)
+eyny.com###wp>table:nth-child(9)
+eyny.com##div.ptn.xg2
+||file-static.com^$third-party
+||static-file.com^$third-party
 fengniao.com##DIV[style="width: 980px; margin: 0pt auto 10px; clear: both;"]
 fengniao.com##DIV[style="width:980px; margin:0 auto 10px auto; repeat-x 0 -503px;clear:both;"]
 fengniao.com##[id^="AD"]
