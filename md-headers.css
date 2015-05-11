@@ -1,9 +1,11 @@
-/* Header counter stylesheet */
+/* From Butfly, include header counter and margin */
 body { counter-reset: section }
+p { margin-top: 0.3em!important; margin-bottom: 0.3em!important; }
 h1 { text-align: center; margin: 2em 0 5em!important;}
-h2 { counter-reset: sub-section }
-h3 { counter-reset: composite }
-h4 { counter-reset: detail }
+h2 { counter-reset: sub-section; margin-left: 0.5em!important; }
+h3 { counter-reset: composite; margin-left: 1.5em!important; }
+h4 { counter-reset: detail; margin-left: 2em!important; }
+h5 { margin-left: 2.5em; }
 h2:before {
     counter-increment: section;
     content: counter(section) " ";
