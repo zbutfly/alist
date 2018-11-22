@@ -1,4 +1,4 @@
-# Network Rulee
+# Network Rules
 
-- ad-block list
+- [ad-block list](butfly-adblock.txt)
 - gfw list
