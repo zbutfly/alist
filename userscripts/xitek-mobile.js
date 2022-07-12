@@ -8,6 +8,7 @@
 // @icon         https://ssl.xitek.com/favicon.ico
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.slim.min.js
+// @updateURL    https://raw.githubusercontent.com/zbutfly/alist/master/userscripts/xitek-mobile.js
 // ==/UserScript==
 
 (function() {
