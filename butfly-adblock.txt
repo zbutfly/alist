@@ -28,7 +28,6 @@
 ||cool18.com##.view_tools_box
 ||cool18.com##.view-gift
 ||cool18.com##.vote-section
-||cool18.com##.post-list
 ||cool18.com##.qr-section
 ||cool18.com##.bottom-nav
 ||cool18.com##.gift
