@@ -23,6 +23,23 @@
 */Ads/*
 ||hao123.com^
 
+! --------- hidden elements ----- !
+! Dec 11, 2024 https://www.cool18.com
+www.cool18.com##.ad-container
+www.cool18.com##.view_tools_box
+www.cool18.com##.view-gift
+www.cool18.com##.vote-section
+www.cool18.com##.qr-section
+www.cool18.com##.bottom-nav
+www.cool18.com##.gift
+www.cool18.com##.adv-6park
+www.cool18.com##pre img
+www.cool18.com###site_map
+www.cool18.com##.btn-like
+www.cool18.com###footer_map
+
+www.cool18.com##div.body_center:nth-of-type(2)
+
 www.jd.com##.promotional-top
 fanyi.baidu.com##.nhcoTCy6
 blog.csdn.net##.recommend-right_aside
