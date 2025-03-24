@@ -33,6 +33,11 @@
 ||cool18.com##.gift
 ||cool18.com##.adv-6park
 ||cool18.com##pre img
+||cool18.com###site_map
+||cool18.com##.btn-like
+||cool18.com###footer_map
+
+||cool18.com##div.body_center:nth-of-type(2)
 
 www.jd.com##.promotional-top
 fanyi.baidu.com##.nhcoTCy6
