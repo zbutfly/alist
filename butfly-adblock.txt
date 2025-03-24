@@ -29,9 +29,6 @@ blog.csdn.net##.recommend-right_aside
 www.cnblogs.com###sidebar
 www.cool18.com##.gift
 www.cool18.com##.adv-6park
-www.cool18.com##div:nth-of-type(2)
-www.cool18.com##tr:nth-of-type(3)
-www.cool18.com##div:nth-of-type(3)
 forum.xitek.com##.d-print-none.border-0.panel-default.panel
 forum.xitek.com##.d-none.d-xl-block.panel-default.panel
 forum.xitek.com##.logozone.navbar-light.navbar-expand-md
