@@ -22,22 +22,6 @@
 ^tan1.js^
 */Ads/*
 ||hao123.com^
-! --------- elements hidden list ----- !
-! Dec 11, 2024 https://www.cool18.com
-||cool18.com##.ad-container
-||cool18.com##.view_tools_box
-||cool18.com##.view-gift
-||cool18.com##.vote-section
-||cool18.com##.qr-section
-||cool18.com##.bottom-nav
-||cool18.com##.gift
-||cool18.com##.adv-6park
-||cool18.com##pre img
-||cool18.com###site_map
-||cool18.com##.btn-like
-||cool18.com###footer_map
-
-||cool18.com##div.body_center:nth-of-type(2)
 
 www.jd.com##.promotional-top
 fanyi.baidu.com##.nhcoTCy6
